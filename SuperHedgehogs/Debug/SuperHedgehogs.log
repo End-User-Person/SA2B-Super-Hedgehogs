@@ -1,0 +1,10 @@
+﻿  SuperHedgehogs.cpp
+c:\users\josephjoestar\desktop\superhedgehogs\superhedgehogs\superhedgehogs.cpp(45): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+c:\users\josephjoestar\desktop\superhedgehogs\superhedgehogs\superhedgehogs.cpp(45): warning C4309: 'initializing': truncation of constant value
+c:\users\josephjoestar\desktop\superhedgehogs\superhedgehogs\superhedgehogs.cpp(57): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+c:\users\josephjoestar\desktop\superhedgehogs\superhedgehogs\superhedgehogs.cpp(57): warning C4309: 'initializing': truncation of constant value
+c:\users\josephjoestar\desktop\superhedgehogs\superhedgehogs\superhedgehogs.cpp(621): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+c:\users\josephjoestar\desktop\superhedgehogs\superhedgehogs\superhedgehogs.cpp(621): warning C4309: 'initializing': truncation of constant value
+c:\users\josephjoestar\desktop\superhedgehogs\superhedgehogs\superhedgehogs.cpp(630): warning C4838: conversion from 'int' to 'short' requires a narrowing conversion
+c:\users\josephjoestar\desktop\superhedgehogs\superhedgehogs\superhedgehogs.cpp(630): warning C4309: 'initializing': truncation of constant value
+  SuperHedgehogs.vcxproj -> C:\Users\JosephJoestar\Desktop\SuperHedgehogs\Debug\SuperHedgehogs.dll
