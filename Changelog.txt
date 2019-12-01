@@ -1,8 +1,0 @@
-V1.8
--Configuration options are now implemented. Each character's forms can be enabled/disabled as necessary
--Super Sonic with his classic shoes is now available as an option for Sonic
--"Hyper" textures for Super Sonic/Shadow are included as an optional bonus. This only applies to the FinalHazard fight
--The flame aura effect for the Fire Somersault has been changed to the dash aura from the FinalHazard fight. Try it with "Fast Somersault" by SPEEPSHighway!
--Dying by ring loss causes Sonic and Shadow to revert back to their normal forms. This does not affect gameplay
--Depending on the configuration settings, Super Sonic and Super Shadow will now appear on the 2P Battle screen. "Super Characters in Battle Menu" by MainMemory can still be used if desired
--A bug that causes DC Super Shadow's arms to disappear during the in-level cutscenes has been fixed
